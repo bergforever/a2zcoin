@@ -2,13 +2,13 @@
 <html lang="zxx" class="js">
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Swiss Pay">
+    <meta name="author" content="A2Z Pay">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Swiss Pay">
+    <meta name="description" content="A2Z Pay">
     <!-- Fav Icon  -->
-    <link rel="shortcut icon" href="{{asset('images/logo/favicon.png')}}">
+    <link rel="shortcut icon" href="{{asset('images/logo/a2z.png')}}">
     <!-- Site Title  -->
-    <title>Swiss Pay</title>
+    <title>A2Z Pay</title>
     <!-- Bundle and Base CSS -->
     <link rel="stylesheet" href="{{asset('assets/css/vendor.bundlef86e.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/stylef86e.css')}}" id="changeTheme">
@@ -25,8 +25,8 @@
                     <!-- Logo @s -->
                     <div class="header-logo logo animated" data-animate="fadeInDown" data-delay=".6">
                         <a href="index.blade.php" class="logo-link">
-                            <img class="logo-dark" src="{{asset('images/logo/logo.png')}}" alt="logo">
-                            <img class="logo-light" src="{{asset('images/logo/logo.png')}}" alt="logo">
+                            <img class="logo-dark" src="{{asset('images/logo/a2z.png')}}" alt="logo">
+                            <img class="logo-light" src="{{asset('images/logo/a2z.png')}}" alt="logo">
                         </a>
                     </div>
                     <!-- Menu Toogle @s -->
@@ -42,7 +42,7 @@
                         <nav class="header-menu" id="header-menu">
                             <ul class="menu">
                                 <li class="menu-item"><a class="menu-link nav-link" href="#why"
-                                                         target="_blank">Why Swiss Pay?</a></li>
+                                                         target="_blank">Why A2Z Pay?</a></li>
                                 <li class="menu-item"><a class="menu-link nav-link" href="#tokenomics"
                                                          target="_blank">Tokenomics</a></li>
                                 <li class="menu-item"><a class="menu-link nav-link" href="#roadmap"
@@ -56,7 +56,7 @@
                             <ul class="menu-btns">
                                 <li><a href="buy"
                                        target="_blank" class="btn btn-md btn-auto btn-primary no-change hover"><span>Buy
-                                 $SWISSPAY</span></a>
+                                 $A2Z PAY</span></a>
                                 </li>
                             </ul>
                         </nav>
@@ -85,14 +85,14 @@
                                     <div class="banner-caption cpn tc-light">
                                         <div class="cpn-head">
                                             <h1 class="title title-lg animated" data-animate="fadeInUp"
-                                                data-delay="1.2">SWISS PAY</h1>
+                                                data-delay="1.2">A2Z PAY</h1>
                                         </div>
                                         <div class="cpn-text cpn-text-s3">
                                             <p class="lead lead-s3 animated" data-animate="fadeInUp"
-                                               data-delay="1.3"> SWISS PAY is a Decentralized,
-                                                Deflationary & SWISSPAY Token for Web
+                                               data-delay="1.3"> A2Z PAY is a Decentralized,
+                                                Deflationary & A2Z PAY Token for Web
                                                 3.0 that merges the worlds of crypto
-                                                and art. Our vision is introduce to Swiss payment system in 150+
+                                                and art. Our vision is introduce to A2Z payment system in 150+
                                                 countries
                                                 all around the world. Which will be use for digital payments in crypto
                                                 on 70000+ merchandise all in world
@@ -109,7 +109,7 @@
                                                 <ul class="btn-grp">
                                                     <li><a href="buy"
                                                            target="_blank" class="btn btn-primary btn-md hover">Buy
-                                                        $SWISSPAY</a>
+                                                        $A2ZPAY</a>
                                                     </li>
                                                     <li>
                                                         <ul class="btn-grp btn-grp-after gutter-30px">
@@ -144,8 +144,8 @@
         <section class="section bg-white section-t-m">
             <div class="container">
                 <div id="why" class="section-head text-center wide-sm animated" data-animate="fadeInUp" data-delay=".1">
-                    <h2 class="title"> Benifits of Swiss Pay</h2>
-                    <p class="mgb-s">The fees associated with SWISS PAY transactions are far less than those associated
+                    <h2 class="title"> Benifits of A2Z Pay</h2>
+                    <p class="mgb-s">The fees associated with A2Z PAY transactions are far less than those associated
                         with debit, credit cards as well as wire transfers</p>
                 </div>
                 <!-- Block @s -->
@@ -161,7 +161,7 @@
                                 <div class="feature-text feature-text-s8">
                                     <h4 class="card-title title title-md mb-1 title-thin title-s7">Transparency and
                                         Immutability</h4>
-                                    <p class="mgb-s card-dis">With SWISS PAY, each time exchange of tokens is recorded
+                                    <p class="mgb-s card-dis">With A2Z PAY, each time exchange of tokens is recorded
                                         on the blockchain, an
                                         audit trail is present to trace where they came token from. This can not only
                                         help
@@ -182,7 +182,7 @@
                                 <div class="feature-text feature-text-s8">
                                     <h4 class="card-title title title-md mb-1 title-thin title-s7">Lower Fees and Higher
                                         Security</h4>
-                                    <p class="card-dis mgb-s">The fees associated with SWISS PAY transactions are far
+                                    <p class="card-dis mgb-s">The fees associated with A2Z PAY transactions are far
                                         less than those associated
                                         with debit, credit cards as well as wire transfers, and BACS payments.
                                         MetaVision is a
@@ -202,7 +202,7 @@
                                 </div>
                                 <div class="feature-text feature-text-s8">
                                     <h4 class="card-title title title-md mb-1 title-thin title-s7">Safe & Secure</h4>
-                                    <p class="card-dis mgb-s">SWISSPAY is a safe and secure platform which is
+                                    <p class="card-dis mgb-s">A2ZPAY is a safe and secure platform which is
                                         continuously improving the
                                         security of the system to ensure the safety of the platform.
                                     </p>
@@ -227,7 +227,7 @@
                             <div class="col-lg-7 col-mb-9">
                                 <div class="nk-block-text">
                                     <div class="pb-5 animated" data-animate="fadeInUp" data-delay=".2">
-                                        <h2 class="title">How to Buy $SWISSPAY </h2>
+                                        <h2 class="title">How to Buy $A2ZPAY </h2>
                                         <p class="lead lead-regular lead-s2">Follow these steps or join our <b><a
                                                 href="https://t.me/" target="_blank">Telegram</a></b>
                                             group if you need help.
@@ -259,7 +259,7 @@
                                             <p>Connect your Trust wallet to
                                                 PancakeSwap, then paste our contract
                                                 address into the token field to swap
-                                                $BNB for $SWISSPAY.</p>
+                                                $BNB for $A2ZPAY.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -288,7 +288,7 @@
                             <div class="row gutter-vr-30px">
                                 <div class="col-lg-3 col-md-5">
                                     <div class="token-sale-box">
-                                        <span class="token-sale-info">SWISS PAY (S PAY) </span>
+                                        <span class="token-sale-info">A2Z PAY (S PAY) </span>
                                         <span class="token-sale-title">TOKEN NAME & SYMBOL</span>
                                     </div>
                                 </div>
@@ -399,7 +399,7 @@
                             <div class="col-lg-7 mb-4 mb-lg-0">
                                 <div class="nk-block-text">
                                     <h2 class="title">Read the Whitepaper </h2>
-                                    <p>Take a deeper dive into SWISS PAY by reading our whitepaper. It is updated
+                                    <p>Take a deeper dive into A2Z PAY by reading our whitepaper. It is updated
                                         regularly with key information about the project!
                                     </p>
                                     <div class="pdt-m">
@@ -467,7 +467,7 @@
                                     <div class="roadmap__content">
                                         <h3 class="roadmap__content-title title">Phase 5</h3>
                                         <p class="roadmap__content-description description">
-                                            Aproch to swiss payments in worldwide & other tier1 exchanges listing
+                                            Aproch to A2Z payments in worldwide & other tier1 exchanges listing
                                         </p>
                                     </div>
                                 </li>
@@ -475,7 +475,7 @@
                                     <div class="roadmap__content">
                                         <h3 class="roadmap__content-title title">Phase 6</h3>
                                         <p class="roadmap__content-description description">
-                                            Swiss Debit card & swiss wallet & launch swiss shopping website
+                                            A2Z Debit card & A2Z wallet & launch A2Z shopping website
                                         </p>
                                     </div>
                                 </li>
@@ -483,7 +483,7 @@
                                     <div class="roadmap__content">
                                         <h3 class="roadmap__content-title title">Phase 7</h3>
                                         <p class="roadmap__content-description description">
-                                            Use swiss pay for payments in 150+ countries & 70000+ Merchandise
+                                            Use A2Z pay for payments in 150+ countries & 70000+ Merchandise
                                         </p>
                                     </div>
                                 </li>
@@ -595,10 +595,10 @@
                                             </a>
                                         </li>
                                     </ul>
-                                    <a href="#" target="_blank"><img class="Footer_logo" src="{{asset('images/logo/logo.png')}}"
+                                    <a href="#" target="_blank"><img class="Footer_logo" src="{{asset('assets/images/Black-512X512.png')}}"
                                                                      alt="Footer_logo"></a>
                                     <br><br>
-                                    <p style="color: #FFF;">Copyright © SWISS PAY 2022. All rights reserved.</p>
+                                    <p style="color: #FFF;">Copyright © A2Z PAY 2022. All rights reserved.</p>
                                 </div>
                             </div>
                         </div>
