@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/stylef86e.css')}}" id="changeTheme">
     <!-- Extra CSS -->
     <link rel="stylesheet" href="{{asset('assets/css/themef86e.css')}}">
+    <link rel="stylesheet" href="{{asset('css/main.css')}}">
 </head>
 <body class="nk-body body-wider mode-onepage">
 <div class="nk-wrap">
@@ -427,69 +428,45 @@
                         <h2 class="title title-thin">Roadmap</h2>
                     </div>
                     <!-- .section-head @e -->
-                    <div class="nk-block">
-                        <div class="token-box-top">
-                            <ul class="roadmap__list">
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 1</h3>
-                                        <p class="roadmap__content-description description">
-                                            Marketing & Community Development
-                                            Presale Phase 1,2 & 3
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 2</h3>
-                                        <p class="roadmap__content-description description">
-                                            Listing on hotbit and other exchanges & 5k Holders
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 3</h3>
-                                        <p class="roadmap__content-description description">
-                                            Marketing & rewards & Audit & 100k follower Binance Listing
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 4</h3>
-                                        <p class="roadmap__content-description description">
-                                            CMC & CG Listing Start buy back burning
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 5</h3>
-                                        <p class="roadmap__content-description description">
-                                            Aproch to A2Z payments in worldwide & other tier1 exchanges listing
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 6</h3>
-                                        <p class="roadmap__content-description description">
-                                            A2Z Debit card & A2Z wallet & launch A2Z shopping website
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="roadmap__list-item">
-                                    <div class="roadmap__content">
-                                        <h3 class="roadmap__content-title title">Phase 7</h3>
-                                        <p class="roadmap__content-description description">
-                                            Use A2Z pay for payments in 150+ countries & 70000+ Merchandise
-                                        </p>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    <section class="timeline">
+                        <ul>
+                            <li>
+                                <div>
+                                    <time>Phase 1</time> Marketing & Community Development Presale Phase 1,2 & 3
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <time>Phase 2</time> Listing on hotbit and other exchanges & 5k Holders
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <time>Phase 3</time> Marketing & rewards & Audit & 100k follower Binance Listing
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <time>Phase 4</time> CMC & CG Listing Start buy back burning
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <time>Phase 5</time> Aproch to swiss payments in worldwide & other tier1 exchanges listing
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <time>Phase 6</time> Swiss Debit card & swiss wallet & launch swiss shopping website
+                                </div>
+                            </li>
+                            <li>
+                                <div>
+                                    <time>Phase 7</time> Use swiss pay for payments in 150+ countries & 70000+ Merchandise
+                                </div>
+                            </li>
+                        </ul>
+                    </section>
                 </div>
                 <div class="bg-image overlay overlay-theme overlay-opacity-90 bg-image-loaded" data-overlay="theme"
                      data-opacity="90" style="background-image: url(_images/bg/bg-a.html);">
@@ -530,43 +507,43 @@
             <!-- // -->
             <!-- // -->
             <!-- Section team -->
-            <section id="team" class="team">
-                <div class="team__container container">
-                    <h2 class="team__title title line-title">Meet our Team</h2>
-                    <ul class="team__list">
-                        <li class="team__list-item">
-                            <div class="team__list-image">
-                                <img src="{{asset('assets/images/team-1.jpg')}}" alt="Photo of the founder named Laminate Smith"/>
-                            </div>
-                            <div class="team__list-info">
-                                <h3 class="team__name title line-title">Laminate Smith</h3>
-                                <p class="team__position">Advisor</p>
-                            </div>
-                        </li>
-                        <li class="team__list-item">
-                            <div class="team__list-image">
-                                <img src="{{asset('assets/images/team-2.jpg')}}" alt="Photo of the marketer named Jhone Cardeo"/>
-                            </div>
-                            <div class="team__list-info">
-                                <h3 class="team__name title line-title">Jhone Cardeo</h3>
-                                <p class="team__position">Ceo</p>
-                            </div>
-                        </li>
-                        <li class="team__list-item">
-                            <div class="team__list-image">
-                                <img
-                                        src="{{asset('assets/images/team-3.jpg')}}"
-                                        alt="Photo of developer named Daniel Aiden"
-                                />
-                            </div>
-                            <div class="team__list-info">
-                                <h3 class="team__name title line-title">Daniel Aiden</h3>
-                                <p class="team__position">Developer</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </section>
+{{--            <section id="team" class="team">--}}
+{{--                <div class="team__container container">--}}
+{{--                    <h2 class="team__title title line-title">Meet our Team</h2>--}}
+{{--                    <ul class="team__list">--}}
+{{--                        <li class="team__list-item">--}}
+{{--                            <div class="team__list-image">--}}
+{{--                                <img src="{{asset('assets/images/team-1.jpg')}}" alt="Photo of the founder named Laminate Smith"/>--}}
+{{--                            </div>--}}
+{{--                            <div class="team__list-info">--}}
+{{--                                <h3 class="team__name title line-title">Laminate Smith</h3>--}}
+{{--                                <p class="team__position">Advisor</p>--}}
+{{--                            </div>--}}
+{{--                        </li>--}}
+{{--                        <li class="team__list-item">--}}
+{{--                            <div class="team__list-image">--}}
+{{--                                <img src="{{asset('assets/images/team-2.jpg')}}" alt="Photo of the marketer named Jhone Cardeo"/>--}}
+{{--                            </div>--}}
+{{--                            <div class="team__list-info">--}}
+{{--                                <h3 class="team__name title line-title">Jhone Cardeo</h3>--}}
+{{--                                <p class="team__position">Ceo</p>--}}
+{{--                            </div>--}}
+{{--                        </li>--}}
+{{--                        <li class="team__list-item">--}}
+{{--                            <div class="team__list-image">--}}
+{{--                                <img--}}
+{{--                                        src="{{asset('assets/images/team-3.jpg')}}"--}}
+{{--                                        alt="Photo of developer named Daniel Aiden"--}}
+{{--                                />--}}
+{{--                            </div>--}}
+{{--                            <div class="team__list-info">--}}
+{{--                                <h3 class="team__name title line-title">Daniel Aiden</h3>--}}
+{{--                                <p class="team__position">Developer</p>--}}
+{{--                            </div>--}}
+{{--                        </li>--}}
+{{--                    </ul>--}}
+{{--                </div>--}}
+{{--            </section>--}}
             <!-- // -->
         </main>
         <footer class="nk-footer bg-theme-grad ov-h">
@@ -613,5 +590,6 @@
 <script src="{{asset('assets/js/jquery.bundlef86e.js')}}"></script>
 <script src="{{asset('assets/js/scriptsf86e.js')}}"></script>
 <script src="{{asset('assets/js/charts.js')}}"></script>
+<script src="{{asset('js/main.js')}}"></script>
 </body>
 </html>
